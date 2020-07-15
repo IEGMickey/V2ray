@@ -20,4 +20,4 @@ vmess://eyJwb3J0IjoiNDQzIiwicHMiOiJJRUctVGFpd2FuIiwidGxzIjoidGxzIiwiaWQiOiI5ZGVm
 vmess://eyJwb3J0IjoiNDQzIiwicHMiOiJJRUctTG9zIEFuZ2VsZXMiLCJ0bHMiOiJ0bHMiLCJpZCI6IjNhYmRiZjhmLWJjMzctNDQwMC1hZWE3LTE3MDRiNDQyMzQyYyIsImFpZCI6IjIzMyIsInYiOiIyIiwiaG9zdCI6InRlc3RpZWcuZ3EiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsIm5ldCI6IndzIiwiYWRkIjoidGVzdGllZy5ncSJ9
 
 #IEGSH_HongKong_Trojan
-trojan://Unlockieg3@new.artnotebook.ml:443#IEGSH-HongKong-Trojan
+trojan://Unlockieg3@new.artnotebook.ml:443?allowinsecure=0&sni=&mux=0&ws=0&wspath=&wshost=&ss=0&ssmethod=aes-128-gcm&sspasswd=&group=#IEGSH-HongKong-Trojan
