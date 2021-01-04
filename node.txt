@@ -1,12 +1,3 @@
-#IEGSH_Hong Kong
-trojan://72cf6a96-8661-4f2c-8e61-237ff859e5f6@np.iegv2ray.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Hong%20Kong
-
-#IEGSH_Taiwan
-trojan://dd5e5b84-3d4e-44e1-a430-513cb7f67a94@iegv2ray.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Taiwan
-
-#IEGSH_Taiwan2
-trojan://IEGieg123@frog.iegv2ray.tk:443?allowInsecure=0&allowInsecureHostname=0&allowInsecureCertificate=0&sessionTicket=0&tfo=0#Taiwan2
-
 #IEGSH_JMS01
 ss://YWVzLTI1Ni1nY206N3JEcThKRUdFU0AxMDQuMjI1LjE1OS4xMjU6MTM1OTk/#JMS01
 
